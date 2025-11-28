@@ -1,0 +1,19 @@
+{
+  "name": "dpn-crosschain-demo-full",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx hardhat test",
+    "node": "npx hardhat node",
+    "deploy": "node scripts/deploy.js"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^5.4.0",
+    "chai": "^4.3.6",
+    "cors": "^2.8.5",
+    "ethers": "^5.8.0",
+    "express": "^5.1.0",
+    "hardhat": "^2.12.0",
+    "sqlite3": "^5.1.7"
+  }
+}

@@ -1,0 +1,83 @@
+Global Layout
+body {
+  background: #f7f9fc;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Container */
+.app-container {
+  width: 90%;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Title */
+h2 {
+  text-align: center;
+  color: #222;
+}
+
+/* Sections */
+section {
+  background: #fff;
+  padding: 18px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Form */
+input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  width: 150px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 16px;
+  border: none;
+  background: #4c7ef3;
+  color: white;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #375fbe;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+thead {
+  background: #4c7ef3;
+  color: white;
+}
+
+td, th {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background: #f2f7ff;
+}
+
+/* Treasury Display */
+.treasury-box {
+  font-size: 18px;
+  font-weight: bold;
+  color: #444;
+  padding: 10px;
+}

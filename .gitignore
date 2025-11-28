@@ -1,0 +1,20 @@
+# Node
+node_modules/
+cache/
+artifacts/
+
+# Environment files
+.env
+*.env
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Hardhat
+typechain/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
