@@ -353,13 +353,6 @@ Immutable fee routing ensures **protocol revenue** from every intent.
 ---
 
 
-# 🎥 12. Demo Video (Add Link)
-
-_Add your Loom / YouTube demo link here once recorded._
-
----
-
-
 
 ## 🚀 4. HOW TO RUN THE PROJECT 
 
